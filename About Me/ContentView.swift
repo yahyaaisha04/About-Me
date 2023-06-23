@@ -12,7 +12,7 @@ struct ContentView: View {
         VStack(\textTitle)")
             .font(.title)
            
-            Text(" All about me!!!!")
+            Text(" All about me!!!!!")
                 .font(.largeTitle)
             Image("cat")
                 .resizable(resizingMode: .stretch)
